@@ -2,7 +2,7 @@
 This is collection of my Front-End based projects
 
 
-Here are my some Front-End Projects:
+Here are the details my Front-End Projects:
 
 1: Resume - This is my resume website. Build with HTML, CSS & JavaScript.
          url:https://vikash174.github.io/Resume/
